@@ -31,7 +31,7 @@
 <br>
 
 <details open>
-    <summary><h2>💻 Software and Tools</h2></summary>
+    <summary><h2>Statistics</h2></summary>
     <p align="left">
         <img src="https://github-readme-stats.vercel.app/api?username=GitGinocchio&count_private=true&theme=nord&hide_border=1">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=GitGinocchio&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">

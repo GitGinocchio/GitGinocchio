@@ -4,8 +4,10 @@
 
 
 
-### 👨‍💻 Programming and Markup Languages
-<details open> 
+<!-- ### 👨‍💻 Programming and Markup Languages -->
+<details open>
+    <summary><h2>👨‍💻 Programming and Markup Languages</h2></summary>
+
     <img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img align="left" alt="Java" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img align="left" alt="JavaScript" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -18,9 +20,11 @@
 <br>
 <br>
 
-### 💻 Software and Tools
+<!-- ### 💻 Software and Tools -->
 
-<details open> 
+<details open>
+    <summary><h2>💻 Software and Tools</h2></summary>
+
     <img align="left" alt="VSCode" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     <img align="left" alt="GitHub" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
     <img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />

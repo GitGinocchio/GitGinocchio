@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76F18&random=true&width=435&lines=Hi!+Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
-<!-- ### 👨‍💻 Programming and Markup Languages -->
 <details open>
     <summary><h2>👨‍💻 Programming and Markup Languages</h2></summary>
     <p align="left">
@@ -18,8 +17,6 @@
 
 <br>
 <br>
-
-<!-- ### 💻 Software and Tools -->
 
 <details open>
     <summary><h2>💻 Software and Tools</h2></summary>

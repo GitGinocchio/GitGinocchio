@@ -26,3 +26,6 @@
         <img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     </p>
 </details>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=GitGinocchio&count_private=true&theme=nord&hide_border=1) 
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=GitGinocchio&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)

@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=250&color=F76F18&random=true&width=435&height=30&lines=Hi!;My+name+is+Giulio!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg](https://github.com/GitGinocchio/spotify-stats-action/raw/main/latest_track.svg)" />
+<img src="https://github.com/GitGinocchio/spotify-stats-action/raw/main/latest_track.svg" />
+
 <details open>
     <summary><h2>👨‍💻 Programming and Markup Languages</h2></summary>
     <p align="left">

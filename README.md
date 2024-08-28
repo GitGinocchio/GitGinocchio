@@ -31,12 +31,13 @@
 <br>
 
 <details open>
-<summary><h2>Statistics</h2></summary>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=GitGinocchio&count_private=true&theme=nord&hide_border=1">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=GitGinocchio&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-</p>
+    <summary><h2>Statistics</h2></summary>
+    <p align="left">
+        <img src="https://github-readme-stats.vercel.app/api?username=GitGinocchio&count_private=true&theme=nord&hide_border=1">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=GitGinocchio&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+    </p>
+</details>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitGinocchio&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GitGinocchio&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GitGinocchio&theme=dracula)
-</details>

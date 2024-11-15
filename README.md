@@ -14,10 +14,8 @@
         <img align="left" alt="Bash" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
     </p>
     <br>
-    <br>
 </details>
 
-<br>
 <br>
 
 <details open>
@@ -30,10 +28,8 @@
         <img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     </p>
     <br>
-    <br>
 </details>
 
-<br>
 <br>
 
 <details open>

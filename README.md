@@ -28,7 +28,7 @@
     <br>
 </details>
 <br>
-<details open>
+<details>
     <summary>
         <h2>Statistics</h2>
     </summary>

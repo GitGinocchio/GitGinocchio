@@ -15,7 +15,7 @@
     </p>
     <br>
 </details>
-
+<br>
 <details open>
     <summary>
         <h2>💻 Software and Tools</h2>
@@ -27,7 +27,7 @@
     </p>
     <br>
 </details>
-
+<br>
 <details open>
     <summary>
         <h2>Statistics</h2>

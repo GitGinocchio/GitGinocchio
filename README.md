@@ -1,12 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=250&color=F76F18&random=true&width=435&height=30&lines=Hi!;My+name+is+Giulio!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+<p align="center">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=250&color=F76F18&random=true&width=435&height=30&lines=Hi!;My+name+is+Giulio!;Welcome+to+my+GitHub+profile!" />
+</p>
 
-<a href="https://discord.com/users/778017089230209045">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/778017089230209045?showDisplayName=true&theme=dark&idleMessage=I'm%20probably%20studying%20or%20touching%20grass%20at%20the%20moment" />
-        <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/778017089230209045?showDisplayName=true&theme=light&idleMessage=I'm%20probably%20studying%20or%20touching%20grass%20at%20the%20moment" />
-        <img alt="discord-embed" src="https://lanyard.cnrad.dev/api/778017089230209045?showDisplayName=true&theme=dark&idleMessage=I'm%20probably%20studying%20or%20touching%20grass%20at%20the%20moment" />
-    </picture>
-</a>
+<p align="center">
+    <a href="https://discord.com/users/778017089230209045">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/778017089230209045?showDisplayName=true&theme=dark&idleMessage=I'm%20probably%20studying%20or%20touching%20grass%20at%20the%20moment" />
+            <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/778017089230209045?showDisplayName=true&theme=light&idleMessage=I'm%20probably%20studying%20or%20touching%20grass%20at%20the%20moment" />
+            <img alt="discord-embed" src="https://lanyard.cnrad.dev/api/778017089230209045?showDisplayName=true&theme=dark&idleMessage=I'm%20probably%20studying%20or%20touching%20grass%20at%20the%20moment" />
+        </picture>
+    </a>
+</p>
 
 <details open>
     <summary>

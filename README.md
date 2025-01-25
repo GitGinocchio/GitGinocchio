@@ -11,7 +11,7 @@
         </picture>
     </a>
 </p>
-
+<!--
 <details open>
     <summary>
         <h2>👨‍💻 Programming and Markup Languages</h2>
@@ -28,6 +28,8 @@
     <br>
 </details>
 <br>
+-->
+
 <details open>
     <summary>
         <h2>💻 Software and Tools</h2>

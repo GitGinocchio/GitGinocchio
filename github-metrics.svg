@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="793" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="887" class="">
     <defs>
         <style/>
     </defs>
@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="300.0392478504081" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="300.0392478504081" y="0" width="49.69743150831088" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="349.736679358719" y="0" width="37.973746307419766" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="387.71042566613875" y="0" width="32.867723570359416" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="420.57814923649823" y="0" width="21.691940844224522" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="442.2700900807227" y="0" width="9.757661206782165" height="8" fill="#355570"/>
-                    <rect mask="url(#languages-bar)" x="452.0277512875049" y="0" width="6.356025646895051" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="458.3837769343999" y="0" width="1.6162230656000893" height="8" fill="#264b99"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="300.03999258189594" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="300.03999258189594" y="0" width="49.69720013129113" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="349.7371927131871" y="0" width="37.97356951252348" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="387.7107622257106" y="0" width="32.86757054764386" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="420.5783327733544" y="0" width="21.69183985275529" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="442.27017262610974" y="0" width="9.757615777903826" height="8" fill="#355570"/>
+                    <rect mask="url(#languages-bar)" x="452.02778840401356" y="0" width="6.355996055058473" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="458.38378445907205" y="0" width="1.6162155409279924" height="8" fill="#264b99"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1424,10 +1424,10 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">8a51b286</span>
-                            <span class="code">entities/collectables/fruit/fruit.tscn</span>
+                            <span class="code">entities/checkpoints/end/end.tscn</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--1</span>
+                                <span class="snippet additions">++3</span>
+                                <span class="snippet deletions">--3</span>
                             </span>
                         </div>
                     </section>
@@ -1435,7 +1435,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,6 +1,6 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">[gd_scene load_steps=4 format=3 uid="uid://d218tnymjh7ds"]<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">[ext_resource type="Script" path="res://scripts/Apple.gd" id="1_uvgcn"]<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">[ext_resource type="Script" path="res://entities/collectables/fruit/scripts/fruit.gd" id="1_uvgcn"]<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">[ext_resource type="SpriteFrames" uid="uid://51kb4a1ab35q" path="res://resources/collectables/apple.tres" id="2_7slq3"]<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">[sub_resource type="CircleShape2D" id="CircleShape2D_c7xo2"]</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,8 +1,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">[gd_scene load_steps=23 format=3 uid="uid://bxx3wt5bjhcqu"]<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">[ext_resource type="Texture2D" uid="uid://b7d8sep3jywyd" path="res://assets/Items/Checkpoints/End/End (Idle).png" id="1_5sddi"]<br /></span><span class="token prefix deleted">-</span><span class="token line">[ext_resource type="Script" path="res://scripts/End.gd" id="1_6tfqc"]<br /></span><span class="token prefix deleted">-</span><span class="token line">[ext_resource type="Texture2D" uid="uid://cr4vuivcbtes5" path="res://assets/Items/Checkpoints/End/End (Pressed) (64x64).png" id="2_b7hnn"]<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">[ext_resource type="Texture2D" uid="uid://b7d8sep3jywyd" path="res://assets/items/checkpoints/end/end (idle).png" id="1_5sddi"]<br /></span><span class="token prefix inserted">+</span><span class="token line">[ext_resource type="Script" path="res://entities/checkpoints/end/end.gd" id="1_6tfqc"]<br /></span><span class="token prefix inserted">+</span><span class="token line">[ext_resource type="Texture2D" uid="uid://cr4vuivcbtes5" path="res://assets/items/checkpoints/end/end (pressed) (64x64).png" id="2_b7hnn"]<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">[sub_resource type="AtlasTexture" id="AtlasTexture_0imd6"]<br /></span><span class="token prefix unchanged">·</span><span class="token line">atlas = ExtResource("2_b7hnn")</span></span></code>
                         </div>
                     </section>
                 </div>

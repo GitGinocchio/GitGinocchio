@@ -18,6 +18,8 @@
 
 ---
 
+<br>
+
 <details open>
     <summary align="center">
         <h2>Languages</h2>
@@ -26,6 +28,8 @@
         <img alt="Icons" src="https://skillicons.dev/icons?i=powershell,bash,html,css,java,js,ts,py,regex,latex,md,sqlite,c,cpp"/>
     </p>
 </details>
+
+<br>
 
 <details open>
     <summary align="center">

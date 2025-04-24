@@ -34,6 +34,8 @@
     </p>
 </details>
 
+---
+
 <details closed>
     <summary align="center">
         <h2>Github Statistics</h2>

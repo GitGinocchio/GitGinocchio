@@ -26,9 +26,7 @@
     </summary>
     <p align="center">
         <img alt="Icons" 
-        src="https://skillicons.dev/icons?i=powershell,bash,html,css,java,js,ts,py,regex,latex,md,sqlite,c,cpp"
-        data-src-light="https://skillicons.dev/icons?i=powershell,bash,html,css,java,js,ts,py,regex,latex,md,sqlite,c,cpp&theme=light"
-        data-src-dark="https://skillicons.dev/icons?i=powershell,bash,html,css,java,js,ts,py,regex,latex,md,sqlite,c,cpp&theme=dark"
+        src="https://skillicons.dev/icons?i=powershell,bash,html,css,java,js,ts,py,regex,latex,md,sqlite,c,cpp&perline=10"
         />
     </p>
 </details>
@@ -40,9 +38,7 @@
         <h2>Software and Tools</h2>
     </summary>
     <p align="center">
-        <img alt="Icons" src="https://skillicons.dev/icons?i=vscode,github,git,cloudflare,workers,discord,bots,selenium,fastapi,flask,githubactions,godot,heroku,nginx,qt,stackoverflow,tensorflow,docker,npm,nodejs,replit,vercel,pytorch"
-        data-src-light="https://skillicons.dev/icons?i=vscode,github,git,cloudflare,workers,discord,bots,selenium,fastapi,flask,githubactions,godot,heroku,nginx,qt,stackoverflow,tensorflow,docker,npm,nodejs,replit,vercel,pytorch&theme=light"
-        data-src-dark="https://skillicons.dev/icons?i=vscode,github,git,cloudflare,workers,discord,bots,selenium,fastapi,flask,githubactions,godot,heroku,nginx,qt,stackoverflow,tensorflow,docker,npm,nodejs,replit,vercel,pytorch&theme=dark"
+        <img alt="Icons" src="https://skillicons.dev/icons?i=vscode,github,git,cloudflare,workers,discord,bots,selenium,fastapi,flask,githubactions,godot,heroku,nginx,qt,stackoverflow,tensorflow,docker,npm,nodejs,replit,vercel,pytorch&perline=10"
         />
     </p>
 </details>

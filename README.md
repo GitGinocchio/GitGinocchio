@@ -2,6 +2,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=250&color=F76F18&center=true&vCenter=true&width=435&height=30&lines=Hi!;My+name+is+Giulio!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
+<br>
+
 <p align="center">
     <a href="https://discord.com/users/778017089230209045">
         <picture>
@@ -11,6 +13,8 @@
         </picture>
     </a>
 </p>
+
+<br>
 
 ---
 
@@ -35,16 +39,26 @@
 
 <details open>
     <summary align="center">
-        <h2>💻 Software and Tools</h2>
+        <h2>Software and Tools</h2>
     </summary>
     <p align="center">
-        <img alt="VSCode" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-        <img alt="GitHub" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-        <img alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+        <img alt="Icons" src="https://skillicons.dev/icons?i=vscode,github,git,cloudflare,workers,discord,bots,selenium,fastapi,flask,githubactions,godot,heroku,nginx,qt,stackoverflow,tensorflow,docker,npm,nodejs,replit,vercel,pytorch"/>
     </p>
     <br>
 </details>
+
+<details open>
+    <summary align="center">
+        <h2>Languages</h2>
+    </summary>
+    <p align="center">
+        <img alt="Icons" src="https://skillicons.dev/icons?i=powershell,bash,html,css,java,js,ts,py,regex,latex,md,sqlite,c,cpp"/>
+    </p>
+    <br>
+</details>
+
 <br>
+
 <details open>
     <summary align="center">
         <h2>Github Statistics</h2>

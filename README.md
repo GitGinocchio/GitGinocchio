@@ -23,7 +23,7 @@
     <p align="center">
         <img alt="Icons" src="https://skillicons.dev/icons?i=powershell,bash,html,css,java,js,ts,py,regex,latex,md,sqlite,c,cpp&perline=10"/>
     </p>
-</details
+</details>
 
 <details open>
     <summary align="center">

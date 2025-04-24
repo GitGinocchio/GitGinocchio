@@ -18,47 +18,6 @@
 
 ---
 
-<!--
-<details open>
-    <summary>
-        <h2>👨‍💻 Programming and Markup Languages</h2>
-    </summary>
-    <p align="left">
-        <img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-        <img align="left" alt="Java" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-        <img align="left" alt="JavaScript" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-        <img align="left" alt="HTML" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-        <img align="left" alt="CSS" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-        <img align="left" alt="C++" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> 
-        <img align="left" alt="Bash" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-    </p>
-    <br>
-</details>
-<br>
--->
-
-<details open>
-    <summary align="center">
-        <h2>Software and Tools</h2>
-    </summary>
-    <p align="center">
-        <img alt="Icons" src="https://skillicons.dev/icons?i=vscode,github,git,cloudflare,workers,discord,bots,selenium,fastapi,flask,githubactions,godot,heroku,nginx,qt,stackoverflow,tensorflow,docker,npm,nodejs,replit,vercel,pytorch"/>
-    </p>
-    <br>
-</details>
-
-<details open>
-    <summary align="center">
-        <h2>Languages</h2>
-    </summary>
-    <p align="center">
-        <img alt="Icons" src="https://skillicons.dev/icons?i=powershell,bash,html,css,java,js,ts,py,regex,latex,md,sqlite,c,cpp"/>
-    </p>
-    <br>
-</details>
-
-<br>
-
 <details open>
     <summary align="center">
         <h2>Github Statistics</h2>
@@ -77,7 +36,25 @@
     </p>
 </details>
 
-<details closed>
+<details open>
+    <summary align="center">
+        <h2>Software and Tools</h2>
+    </summary>
+    <p align="center">
+        <img alt="Icons" src="https://skillicons.dev/icons?i=vscode,github,git,cloudflare,workers,discord,bots,selenium,fastapi,flask,githubactions,godot,heroku,nginx,qt,stackoverflow,tensorflow,docker,npm,nodejs,replit,vercel,pytorch"/>
+    </p>
+</details>
+
+<details open>
+    <summary align="center">
+        <h2>Languages</h2>
+    </summary>
+    <p align="center">
+        <img alt="Icons" src="https://skillicons.dev/icons?i=powershell,bash,html,css,java,js,ts,py,regex,latex,md,sqlite,c,cpp"/>
+    </p>
+</details>
+
+<details open>
     <summary align="center">
         <h2>Osu! Statistics</h2>
     </summary>

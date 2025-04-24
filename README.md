@@ -26,8 +26,8 @@
     </summary>
     <p align="center">
         <picture>
-            <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=powershell,bash,html,css,java,js,ts,py,regex,latex,md,sqlite,c,cpp&theme=light" />
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=powershell,bash,html,css,java,js,ts,py,regex,latex,md,sqlite,c,cpp&theme=dark" />
+            <source media="(prefers-color-scheme: light)" data-src="https://skillicons.dev/icons?i=powershell,bash,html,css,java,js,ts,py,regex,latex,md,sqlite,c,cpp&theme=light" />
+            <source media="(prefers-color-scheme: dark)" data-src="https://skillicons.dev/icons?i=powershell,bash,html,css,java,js,ts,py,regex,latex,md,sqlite,c,cpp&theme=dark" />
             <img alt="Icons" src="https://skillicons.dev/icons?i=powershell,bash,html,css,java,js,ts,py,regex,latex,md,sqlite,c,cpp"/>
         </picture>
     </p>
@@ -41,9 +41,9 @@
     </summary>
     <p align="center">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,github,git,cloudflare,workers,discord,bots,selenium,fastapi,flask,githubactions,godot,heroku,nginx,qt,stackoverflow,tensorflow,docker,npm,nodejs,replit,vercel,pytorch&theme=dark">
+            <source media="(prefers-color-scheme: dark)" data-src="https://skillicons.dev/icons?i=vscode,github,git,cloudflare,workers,discord,bots,selenium,fastapi,flask,githubactions,godot,heroku,nginx,qt,stackoverflow,tensorflow,docker,npm,nodejs,replit,vercel,pytorch&theme=dark">
             </source>
-            <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,github,git,cloudflare,workers,discord,bots,selenium,fastapi,flask,githubactions,godot,heroku,nginx,qt,stackoverflow,tensorflow,docker,npm,nodejs,replit,vercel,pytorch&theme=light">
+            <source media="(prefers-color-scheme: light)" data-src="https://skillicons.dev/icons?i=vscode,github,git,cloudflare,workers,discord,bots,selenium,fastapi,flask,githubactions,godot,heroku,nginx,qt,stackoverflow,tensorflow,docker,npm,nodejs,replit,vercel,pytorch&theme=light">
             </source>
             <img alt="Icons" src="https://skillicons.dev/icons?i=vscode,github,git,cloudflare,workers,discord,bots,selenium,fastapi,flask,githubactions,godot,heroku,nginx,qt,stackoverflow,tensorflow,docker,npm,nodejs,replit,vercel,pytorch"/>
         </picture>

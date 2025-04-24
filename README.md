@@ -20,19 +20,10 @@
 
 <details open>
     <summary align="center">
-        <h2>Github Statistics</h2>
+        <h2>Languages</h2>
     </summary>
     <p align="center">
-        <img src="https://github.com/GitGinocchio/GitGinocchio/blob/main/github-metrics.svg" />
-        <!-- <img src="https://github-readme-stats.vercel.app/api?username=GitGinocchio&count_private=true&theme=nord&hide_border=1">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=GitGinocchio&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-        <img src="https://raw.githubusercontent.com/GitGinocchio/GitGinocchio/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-        <img src="https://raw.githubusercontent.com/GitGinocchio/GitGinocchio/output/github-contribution-grid-snake.svg#gh-light-mode-only">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitGinocchio&theme=dracula" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GitGinocchio&theme=dracula" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GitGinocchio&theme=dracula" />
-        <p align="left"> <img src="https://komarev.com/ghpvc/?username=GitGinocchio&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" /> </p>
-        -->
+        <img alt="Icons" src="https://skillicons.dev/icons?i=powershell,bash,html,css,java,js,ts,py,regex,latex,md,sqlite,c,cpp"/>
     </p>
 </details>
 
@@ -47,10 +38,19 @@
 
 <details open>
     <summary align="center">
-        <h2>Languages</h2>
+        <h2>Github Statistics</h2>
     </summary>
     <p align="center">
-        <img alt="Icons" src="https://skillicons.dev/icons?i=powershell,bash,html,css,java,js,ts,py,regex,latex,md,sqlite,c,cpp"/>
+        <img src="https://github.com/GitGinocchio/GitGinocchio/blob/main/github-metrics.svg" />
+        <!-- <img src="https://github-readme-stats.vercel.app/api?username=GitGinocchio&count_private=true&theme=nord&hide_border=1">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=GitGinocchio&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+        <img src="https://raw.githubusercontent.com/GitGinocchio/GitGinocchio/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+        <img src="https://raw.githubusercontent.com/GitGinocchio/GitGinocchio/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitGinocchio&theme=dracula" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GitGinocchio&theme=dracula" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GitGinocchio&theme=dracula" />
+        <p align="left"> <img src="https://komarev.com/ghpvc/?username=GitGinocchio&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" /> </p>
+        -->
     </p>
 </details>
 

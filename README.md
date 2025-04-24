@@ -42,7 +42,7 @@
 
 <br>
 
-<details closed>
+<details open>
     <summary align="center">
         <h2>Github Statistics</h2>
     </summary>
@@ -60,7 +60,7 @@
     </p>
 </details>
 
-<details open>
+<details closed>
     <summary align="center">
         <h2>Osu! Statistics</h2>
     </summary>

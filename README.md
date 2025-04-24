@@ -14,8 +14,6 @@
     </a>
 </p>
 
-<br>
-
 ---
 
 <details open>

@@ -1163,7 +1163,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 23 Apr 2025, 23:30:37
+                            On 24 Apr 2025, 00:39:22
                         </div>
                     </section>
                 </div>
@@ -1173,85 +1173,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Dev (#201)
-
-* refactor: deleted run.py and run.sh as not necessary
-
-* chore(deps): set target branch to 'dev' for pip updates in dependabot.yml
-
-* chore(deps): Updated Bandit workflow to include 'dev' branch
-
-* ci: Updated workflow for dependency checks and created test workflow
-
-* ci: Added dependency check step to linting-and-testing workflow
-
-* ci: fixed "Error: Can't find 'action.yml'"
-
-* ci: fixed Error: Can't find 'action.yml'
-
-* Update linting-and-testing.yml
-
-* Update linting-and-testing.yml
-
-* ci: ignore changes to requirements.txt and .dev/requirements.txt
-
-* ci: allowing workflow to run only on .py files changes
-
-* ci: updated workflow to use strategy
-
-* ci: fixed could not find python version
-
-* test: trying to fix python version error
-
-* Update dependency-check.yml
-
-* ci: implemented pip packages cache
-
-* ci: minor changes
-
-* ci: improved workflow
-
-* ci: improved workflow
-
-* ci: minor changes
-
-* ci: test changes
-
-* ci: tests
-
-* ci: tests
-
-* ci: testing new ci-cd workflows
-
-* ci: minor changes
-
-* chore(release): bump to 0.1.0 (v0.1.0)
-
-* ci: improved release.yml
-
-* Update release.yml
-
-* Update release.yml
-
-* Update release.yml
-
-* Update release.yml
-
-* Update release.yml
-
-* chore(release): bump to 0.1.0 (v0.1.0)
-
-* ci: release action inputs and new image formats
-
----------
-
-Co-authored-by: GitGinocchio &lt;GitGinocchio@users.noreply.github.com&gt;
+                            ci: release action inputs and new image formats
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">39315e12</span>
+                            <span class="code">943c6ea6</span>
                             <span class="code">src/web/HTTPServer.py</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>

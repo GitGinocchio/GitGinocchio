@@ -21,7 +21,7 @@
         <h2>Languages</h2>
     </summary>
     <p align="center">
-        <img alt="Icons" src="https://skillicons.dev/icons?i=powershell,bash,html,css,java,js,ts,py,regex,latex,md,sqlite,c,cpp&perline=10"/>
+        <img alt="Icons" src="https://skillicons.dev/icons?i=powershell,bash,html,css,java,js,ts,py,regex,latex,md,sqlite,c,cpp,rust&perline=10"/>
     </p>
 </details>
 

@@ -1197,9 +1197,9 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">aa8b1352</span>
-                            <span class="code">src/audio/interface.rs</span>
+                            <span class="code">src/shortcut/mod.rs</span>
                             <span class="code">
-                                <span class="snippet additions">++9</span>
+                                <span class="snippet additions">++8</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -1208,7 +1208,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,9 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">use crate::Sound;<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">pub trait AudioBackend {<br /></span><span class="token prefix inserted">+</span><span class="token line">   fn play(&amp;mut self, sound : &amp;Sound);<br /></span><span class="token prefix inserted">+</span><span class="token line">   fn stop(&amp;mut self);<br /></span><span class="token prefix inserted">+</span><span class="token line">   fn is_playing(&amp;self) -&gt; bool;<br /></span><span class="token prefix inserted">+</span><span class="token line">}</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,8 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">pub mod interface;<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">pub mod keycodes;<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">#[cfg(not(target_arch = "wasm32"))]<br /></span><span class="token prefix inserted">+</span><span class="token line">pub mod desktop;<br /></span><span class="token prefix inserted">+</span><span class="token line">#[cfg(not(target_arch = "wasm32"))]<br /></span><span class="token prefix inserted">+</span><span class="token line">pub use desktop::DesktopShortcutListener as PlatformShortcutListener;<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>

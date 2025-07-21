@@ -11,6 +11,11 @@
             <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/778017089230209045?showDisplayName=true&theme=light&idleMessage=I'm%20probably%20studying%20or%20touching%20grass%20at%20the%20moment" />
             <img alt="discord-embed" src="https://lanyard.cnrad.dev/api/778017089230209045?showDisplayName=true&theme=dark&idleMessage=I'm%20probably%20studying%20or%20touching%20grass%20at%20the%20moment" />
         </picture>
+        <br>
+        <br>
+        <a href="https://ko-fi.com/A0A51IF1IS">
+            <img alt="ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg">
+        </a>
     </a>
 </p>
 
